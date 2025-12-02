@@ -47,5 +47,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Github Profile](https://github.com/victoire20)
 - Frontend Mentor - [@victoire20](https://www.frontendmentor.io/profile/victoire20)

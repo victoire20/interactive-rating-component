@@ -203,9 +203,6 @@ footer {
         animation: none !important;
         opacity: 1;
         transform: none;
-    }
-
-    #rating__card {
         filter: none;
     }
 }
