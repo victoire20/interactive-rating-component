@@ -200,7 +200,7 @@ footer {
 @media (prefers-reduced-motion: reduce) {
     .rating__card,
     .thank__you__card {
-        animation: none !important;
+        animation: none;
         opacity: 1;
         transform: none;
         filter: none;
